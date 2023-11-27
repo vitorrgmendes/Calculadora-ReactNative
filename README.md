@@ -6,7 +6,7 @@ Projeto de uma calculadora desenvolvido em React Native, realizando as funções
 
 1. [Visual Studio Code](https://code.visualstudio.com/download)
 2. [Android Studio](https://developer.android.com/studio?hl=pt-br)
-3. [React](https://reactnative.dev/docs/environment-setup)
+3. [React Native](https://reactnative.dev/docs/environment-setup)
 
 ## ▶ Como executar o projeto?
 
